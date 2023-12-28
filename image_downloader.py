@@ -2,7 +2,7 @@ import requests # request img from web
 import shutil # save img locally
 # import xlwings as xw
 import timeit
-import pandas as pd
+import pandas as pd # pandas==2.1.2
 
 
 start = timeit.default_timer() # mencatat waktu mulai
